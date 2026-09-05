@@ -1,4 +1,4 @@
-<h1 align="center">SK Jewel</h1>
+# 💫 Hi 👋, I'm SK Jewel</h1>
 <h3 align="center"> Frontend Developer </h3>
 
 <p align="center">
